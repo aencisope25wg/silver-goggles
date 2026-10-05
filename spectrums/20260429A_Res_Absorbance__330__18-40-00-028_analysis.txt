@@ -1,0 +1,8 @@
+Spectrum analysis
+=================
+
+LSPR max (nm): 1016.7000
+TSPR max (nm): 577.4000
+LSPR/TSPR: 0.2790
+TSPR/400: 13.5706
+FWHM (nm): 128.0437

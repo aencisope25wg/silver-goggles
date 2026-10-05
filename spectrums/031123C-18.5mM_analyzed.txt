@@ -1,0 +1,1211 @@
+Multi-Spectrum Analysis Results
+=============================================
+
+Input file    : .\spectrums\031123C-18.5mM.csv
+Total spectra : 110
+Smoothing     : no
+
+No peaks      : 17
+One peak      : 14
+Two+ peaks    : 79
+
+
+SUMMARY
+---------------------------------------------
+Spectrum    1: no peaks
+Spectrum    2: no peaks
+Spectrum    3: no peaks
+Spectrum    4: no peaks
+Spectrum    5: no peaks
+Spectrum    6: no peaks
+Spectrum    7: no peaks
+Spectrum    8: no peaks
+Spectrum    9: no peaks
+Spectrum   10: no peaks
+Spectrum   11: no peaks
+Spectrum   12: no peaks
+Spectrum   13: no peaks
+Spectrum   14: no peaks
+Spectrum   15: no peaks
+Spectrum   16: no peaks
+Spectrum   17: no peaks
+Spectrum   18: 1 peak      | 573.0 nm, abs 0.0992
+Spectrum   19: 1 peak      | 587.0 nm, abs 0.1275
+Spectrum   20: 1 peak      | 601.0 nm, abs 0.1654
+Spectrum   21: 1 peak      | 617.0 nm, abs 0.2127
+Spectrum   22: 1 peak      | 632.0 nm, abs 0.2703
+Spectrum   23: 1 peak      | 648.0 nm, abs 0.3395
+Spectrum   24: 1 peak      | 663.0 nm, abs 0.4217
+Spectrum   25: 1 peak      | 677.0 nm, abs 0.5147
+Spectrum   26: 1 peak      | 687.0 nm, abs 0.6152
+Spectrum   27: 1 peak      | 696.0 nm, abs 0.7177
+Spectrum   28: 1 peak      | 702.0 nm, abs 0.8190
+Spectrum   29: 1 peak      | 707.0 nm, abs 0.9181
+Spectrum   30: 1 peak      | 712.0 nm, abs 1.0156
+Spectrum   31: 1 peak      | 716.0 nm, abs 1.1113
+Spectrum   32: 2 peaks     | TSPR 513.0 nm, LSPR 719.0 nm
+Spectrum   33: 2 peaks     | TSPR 513.0 nm, LSPR 722.0 nm
+Spectrum   34: 2 peaks     | TSPR 513.0 nm, LSPR 724.0 nm
+Spectrum   35: 2 peaks     | TSPR 513.0 nm, LSPR 728.0 nm
+Spectrum   36: 2 peaks     | TSPR 512.0 nm, LSPR 730.0 nm
+Spectrum   37: 2 peaks     | TSPR 513.0 nm, LSPR 733.0 nm
+Spectrum   38: 2 peaks     | TSPR 512.0 nm, LSPR 734.0 nm
+Spectrum   39: 2 peaks     | TSPR 513.0 nm, LSPR 736.0 nm
+Spectrum   40: 2 peaks     | TSPR 513.0 nm, LSPR 738.0 nm
+Spectrum   41: 2 peaks     | TSPR 513.0 nm, LSPR 741.0 nm
+Spectrum   42: 2 peaks     | TSPR 513.0 nm, LSPR 743.0 nm
+Spectrum   43: 2 peaks     | TSPR 513.0 nm, LSPR 743.0 nm
+Spectrum   44: 2 peaks     | TSPR 514.0 nm, LSPR 745.0 nm
+Spectrum   45: 2 peaks     | TSPR 513.0 nm, LSPR 745.0 nm
+Spectrum   46: 2 peaks     | TSPR 513.0 nm, LSPR 746.0 nm
+Spectrum   47: 2 peaks     | TSPR 514.0 nm, LSPR 747.0 nm
+Spectrum   48: 2 peaks     | TSPR 514.0 nm, LSPR 749.0 nm
+Spectrum   49: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   50: 2 peaks     | TSPR 514.0 nm, LSPR 750.0 nm
+Spectrum   51: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   52: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   53: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   54: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   55: 2 peaks     | TSPR 514.0 nm, LSPR 753.0 nm
+Spectrum   56: 2 peaks     | TSPR 514.0 nm, LSPR 753.0 nm
+Spectrum   57: 2 peaks     | TSPR 515.0 nm, LSPR 753.0 nm
+Spectrum   58: 2 peaks     | TSPR 513.0 nm, LSPR 753.0 nm
+Spectrum   59: 2 peaks     | TSPR 514.0 nm, LSPR 753.0 nm
+Spectrum   60: 2 peaks     | TSPR 515.0 nm, LSPR 754.0 nm
+Spectrum   61: 2 peaks     | TSPR 514.0 nm, LSPR 753.0 nm
+Spectrum   62: 2 peaks     | TSPR 514.0 nm, LSPR 753.0 nm
+Spectrum   63: 2 peaks     | TSPR 513.0 nm, LSPR 752.0 nm
+Spectrum   64: 2 peaks     | TSPR 514.0 nm, LSPR 755.0 nm
+Spectrum   65: 2 peaks     | TSPR 514.0 nm, LSPR 756.0 nm
+Spectrum   66: 2 peaks     | TSPR 515.0 nm, LSPR 754.0 nm
+Spectrum   67: 2 peaks     | TSPR 514.0 nm, LSPR 754.0 nm
+Spectrum   68: 2 peaks     | TSPR 515.0 nm, LSPR 753.0 nm
+Spectrum   69: 2 peaks     | TSPR 515.0 nm, LSPR 754.0 nm
+Spectrum   70: 2 peaks     | TSPR 515.0 nm, LSPR 754.0 nm
+Spectrum   71: 2 peaks     | TSPR 513.0 nm, LSPR 753.0 nm
+Spectrum   72: 2 peaks     | TSPR 513.0 nm, LSPR 754.0 nm
+Spectrum   73: 2 peaks     | TSPR 515.0 nm, LSPR 755.0 nm
+Spectrum   74: 2 peaks     | TSPR 513.0 nm, LSPR 753.0 nm
+Spectrum   75: 2 peaks     | TSPR 515.0 nm, LSPR 752.0 nm
+Spectrum   76: 2 peaks     | TSPR 513.0 nm, LSPR 752.0 nm
+Spectrum   77: 2 peaks     | TSPR 514.0 nm, LSPR 755.0 nm
+Spectrum   78: 2 peaks     | TSPR 514.0 nm, LSPR 755.0 nm
+Spectrum   79: 2 peaks     | TSPR 515.0 nm, LSPR 751.0 nm
+Spectrum   80: 2 peaks     | TSPR 515.0 nm, LSPR 753.0 nm
+Spectrum   81: 2 peaks     | TSPR 515.0 nm, LSPR 752.0 nm
+Spectrum   82: 2 peaks     | TSPR 513.0 nm, LSPR 753.0 nm
+Spectrum   83: 2 peaks     | TSPR 514.0 nm, LSPR 752.0 nm
+Spectrum   84: 2 peaks     | TSPR 515.0 nm, LSPR 753.0 nm
+Spectrum   85: 2 peaks     | TSPR 514.0 nm, LSPR 752.0 nm
+Spectrum   86: 2 peaks     | TSPR 513.0 nm, LSPR 751.0 nm
+Spectrum   87: 2 peaks     | TSPR 513.0 nm, LSPR 749.0 nm
+Spectrum   88: 2 peaks     | TSPR 514.0 nm, LSPR 750.0 nm
+Spectrum   89: 2 peaks     | TSPR 514.0 nm, LSPR 750.0 nm
+Spectrum   90: 2 peaks     | TSPR 513.0 nm, LSPR 750.0 nm
+Spectrum   91: 2 peaks     | TSPR 514.0 nm, LSPR 751.0 nm
+Spectrum   92: 2 peaks     | TSPR 514.0 nm, LSPR 751.0 nm
+Spectrum   93: 2 peaks     | TSPR 513.0 nm, LSPR 749.0 nm
+Spectrum   94: 2 peaks     | TSPR 515.0 nm, LSPR 750.0 nm
+Spectrum   95: 2 peaks     | TSPR 515.0 nm, LSPR 750.0 nm
+Spectrum   96: 2 peaks     | TSPR 515.0 nm, LSPR 749.0 nm
+Spectrum   97: 2 peaks     | TSPR 514.0 nm, LSPR 750.0 nm
+Spectrum   98: 2 peaks     | TSPR 515.0 nm, LSPR 749.0 nm
+Spectrum   99: 2 peaks     | TSPR 514.0 nm, LSPR 747.0 nm
+Spectrum  100: 2 peaks     | TSPR 514.0 nm, LSPR 749.0 nm
+Spectrum  101: 2 peaks     | TSPR 514.0 nm, LSPR 747.0 nm
+Spectrum  102: 2 peaks     | TSPR 513.0 nm, LSPR 747.0 nm
+Spectrum  103: 2 peaks     | TSPR 513.0 nm, LSPR 747.0 nm
+Spectrum  104: 2 peaks     | TSPR 515.0 nm, LSPR 747.0 nm
+Spectrum  105: 2 peaks     | TSPR 514.0 nm, LSPR 747.0 nm
+Spectrum  106: 2 peaks     | TSPR 514.0 nm, LSPR 748.0 nm
+Spectrum  107: 2 peaks     | TSPR 514.0 nm, LSPR 748.0 nm
+Spectrum  108: 2 peaks     | TSPR 513.0 nm, LSPR 746.0 nm
+Spectrum  109: 2 peaks     | TSPR 514.0 nm, LSPR 747.0 nm
+Spectrum  110: 2 peaks     | TSPR 514.0 nm, LSPR 746.0 nm
+
+
+DETAILED RESULTS
+---------------------------------------------
+
+Spectrum 18  [1 peak]
+  peak wavelength (nm)            : 573.0000
+  peak absorbance                 : 0.0992
+
+Spectrum 19  [1 peak]
+  peak wavelength (nm)            : 587.0000
+  peak absorbance                 : 0.1275
+
+Spectrum 20  [1 peak]
+  peak wavelength (nm)            : 601.0000
+  peak absorbance                 : 0.1654
+
+Spectrum 21  [1 peak]
+  peak wavelength (nm)            : 617.0000
+  peak absorbance                 : 0.2127
+
+Spectrum 22  [1 peak]
+  peak wavelength (nm)            : 632.0000
+  peak absorbance                 : 0.2703
+
+Spectrum 23  [1 peak]
+  peak wavelength (nm)            : 648.0000
+  peak absorbance                 : 0.3395
+
+Spectrum 24  [1 peak]
+  peak wavelength (nm)            : 663.0000
+  peak absorbance                 : 0.4217
+
+Spectrum 25  [1 peak]
+  peak wavelength (nm)            : 677.0000
+  peak absorbance                 : 0.5147
+
+Spectrum 26  [1 peak]
+  peak wavelength (nm)            : 687.0000
+  peak absorbance                 : 0.6152
+
+Spectrum 27  [1 peak]
+  peak wavelength (nm)            : 696.0000
+  peak absorbance                 : 0.7177
+
+Spectrum 28  [1 peak]
+  peak wavelength (nm)            : 702.0000
+  peak absorbance                 : 0.8190
+
+Spectrum 29  [1 peak]
+  peak wavelength (nm)            : 707.0000
+  peak absorbance                 : 0.9181
+
+Spectrum 30  [1 peak]
+  peak wavelength (nm)            : 712.0000
+  peak absorbance                 : 1.0156
+
+Spectrum 31  [1 peak]
+  peak wavelength (nm)            : 716.0000
+  peak absorbance                 : 1.1113
+
+Spectrum 32  [2 peaks]
+  LSPR wavelength (nm)            : 719.0000
+  LSPR absorbance                 : 1.2104
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.2743
+  LSPR - TSPR                     : 0.9361
+  LSPR / TSPR                     : 4.4125
+  Absorbance at 400 nm            : 1.6168
+  TSPR / Abs(400 nm)              : 0.1697
+  LSPR FWHM (nm)                  : 65.6060
+  LSPR FWHM left (nm)             : 684.6732
+  LSPR FWHM right (nm)            : 750.2792
+
+Spectrum 33  [2 peaks]
+  LSPR wavelength (nm)            : 722.0000
+  LSPR absorbance                 : 1.3093
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.2905
+  LSPR - TSPR                     : 1.0187
+  LSPR / TSPR                     : 4.5066
+  Absorbance at 400 nm            : 1.6356
+  TSPR / Abs(400 nm)              : 0.1776
+  LSPR FWHM (nm)                  : 65.4216
+  LSPR FWHM left (nm)             : 687.8360
+  LSPR FWHM right (nm)            : 753.2575
+
+Spectrum 34  [2 peaks]
+  LSPR wavelength (nm)            : 724.0000
+  LSPR absorbance                 : 1.4060
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.3067
+  LSPR - TSPR                     : 1.0993
+  LSPR / TSPR                     : 4.5844
+  Absorbance at 400 nm            : 1.6543
+  TSPR / Abs(400 nm)              : 0.1854
+  LSPR FWHM (nm)                  : 65.3760
+  LSPR FWHM left (nm)             : 690.8146
+  LSPR FWHM right (nm)            : 756.1906
+
+Spectrum 35  [2 peaks]
+  LSPR wavelength (nm)            : 728.0000
+  LSPR absorbance                 : 1.5070
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.3230
+  LSPR - TSPR                     : 1.1840
+  LSPR / TSPR                     : 4.6656
+  Absorbance at 400 nm            : 1.6734
+  TSPR / Abs(400 nm)              : 0.1930
+  LSPR FWHM (nm)                  : 65.1569
+  LSPR FWHM left (nm)             : 693.6791
+  LSPR FWHM right (nm)            : 758.8360
+
+Spectrum 36  [2 peaks]
+  LSPR wavelength (nm)            : 730.0000
+  LSPR absorbance                 : 1.6082
+  TSPR wavelength (nm)            : 512.0000
+  TSPR absorbance                 : 0.3386
+  LSPR - TSPR                     : 1.2696
+  LSPR / TSPR                     : 4.7496
+  Absorbance at 400 nm            : 1.6905
+  TSPR / Abs(400 nm)              : 0.2003
+  LSPR FWHM (nm)                  : 64.8444
+  LSPR FWHM left (nm)             : 696.3722
+  LSPR FWHM right (nm)            : 761.2166
+
+Spectrum 37  [2 peaks]
+  LSPR wavelength (nm)            : 733.0000
+  LSPR absorbance                 : 1.7011
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.3533
+  LSPR - TSPR                     : 1.3478
+  LSPR / TSPR                     : 4.8146
+  Absorbance at 400 nm            : 1.7076
+  TSPR / Abs(400 nm)              : 0.2069
+  LSPR FWHM (nm)                  : 64.7593
+  LSPR FWHM left (nm)             : 698.7922
+  LSPR FWHM right (nm)            : 763.5515
+
+Spectrum 38  [2 peaks]
+  LSPR wavelength (nm)            : 734.0000
+  LSPR absorbance                 : 1.7936
+  TSPR wavelength (nm)            : 512.0000
+  TSPR absorbance                 : 0.3681
+  LSPR - TSPR                     : 1.4255
+  LSPR / TSPR                     : 4.8732
+  Absorbance at 400 nm            : 1.7245
+  TSPR / Abs(400 nm)              : 0.2134
+  LSPR FWHM (nm)                  : 64.6609
+  LSPR FWHM left (nm)             : 701.2703
+  LSPR FWHM right (nm)            : 765.9312
+
+Spectrum 39  [2 peaks]
+  LSPR wavelength (nm)            : 736.0000
+  LSPR absorbance                 : 1.8883
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.3825
+  LSPR - TSPR                     : 1.5058
+  LSPR / TSPR                     : 4.9364
+  Absorbance at 400 nm            : 1.7406
+  TSPR / Abs(400 nm)              : 0.2198
+  LSPR FWHM (nm)                  : 64.4100
+  LSPR FWHM left (nm)             : 703.4502
+  LSPR FWHM right (nm)            : 767.8602
+
+Spectrum 40  [2 peaks]
+  LSPR wavelength (nm)            : 738.0000
+  LSPR absorbance                 : 1.9789
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.3963
+  LSPR - TSPR                     : 1.5826
+  LSPR / TSPR                     : 4.9935
+  Absorbance at 400 nm            : 1.7560
+  TSPR / Abs(400 nm)              : 0.2257
+  LSPR FWHM (nm)                  : 64.1506
+  LSPR FWHM left (nm)             : 705.4568
+  LSPR FWHM right (nm)            : 769.6074
+
+Spectrum 41  [2 peaks]
+  LSPR wavelength (nm)            : 741.0000
+  LSPR absorbance                 : 2.0642
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4099
+  LSPR - TSPR                     : 1.6543
+  LSPR / TSPR                     : 5.0363
+  Absorbance at 400 nm            : 1.7714
+  TSPR / Abs(400 nm)              : 0.2314
+  LSPR FWHM (nm)                  : 64.0441
+  LSPR FWHM left (nm)             : 707.2313
+  LSPR FWHM right (nm)            : 771.2754
+
+Spectrum 42  [2 peaks]
+  LSPR wavelength (nm)            : 743.0000
+  LSPR absorbance                 : 2.1463
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4218
+  LSPR - TSPR                     : 1.7244
+  LSPR / TSPR                     : 5.0880
+  Absorbance at 400 nm            : 1.7856
+  TSPR / Abs(400 nm)              : 0.2362
+  LSPR FWHM (nm)                  : 63.9342
+  LSPR FWHM left (nm)             : 708.8779
+  LSPR FWHM right (nm)            : 772.8122
+
+Spectrum 43  [2 peaks]
+  LSPR wavelength (nm)            : 743.0000
+  LSPR absorbance                 : 2.2196
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4338
+  LSPR - TSPR                     : 1.7858
+  LSPR / TSPR                     : 5.1163
+  Absorbance at 400 nm            : 1.7985
+  TSPR / Abs(400 nm)              : 0.2412
+  LSPR FWHM (nm)                  : 63.8525
+  LSPR FWHM left (nm)             : 710.3429
+  LSPR FWHM right (nm)            : 774.1954
+
+Spectrum 44  [2 peaks]
+  LSPR wavelength (nm)            : 745.0000
+  LSPR absorbance                 : 2.2950
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.4445
+  LSPR - TSPR                     : 1.8505
+  LSPR / TSPR                     : 5.1628
+  Absorbance at 400 nm            : 1.8115
+  TSPR / Abs(400 nm)              : 0.2454
+  LSPR FWHM (nm)                  : 63.7011
+  LSPR FWHM left (nm)             : 711.7331
+  LSPR FWHM right (nm)            : 775.4343
+
+Spectrum 45  [2 peaks]
+  LSPR wavelength (nm)            : 745.0000
+  LSPR absorbance                 : 2.3678
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4555
+  LSPR - TSPR                     : 1.9123
+  LSPR / TSPR                     : 5.1988
+  Absorbance at 400 nm            : 1.8240
+  TSPR / Abs(400 nm)              : 0.2497
+  LSPR FWHM (nm)                  : 63.4711
+  LSPR FWHM left (nm)             : 713.0250
+  LSPR FWHM right (nm)            : 776.4961
+
+Spectrum 46  [2 peaks]
+  LSPR wavelength (nm)            : 746.0000
+  LSPR absorbance                 : 2.4325
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4653
+  LSPR - TSPR                     : 1.9672
+  LSPR / TSPR                     : 5.2274
+  Absorbance at 400 nm            : 1.8347
+  TSPR / Abs(400 nm)              : 0.2536
+  LSPR FWHM (nm)                  : 63.4264
+  LSPR FWHM left (nm)             : 714.1032
+  LSPR FWHM right (nm)            : 777.5295
+
+Spectrum 47  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 2.4976
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.4767
+  LSPR - TSPR                     : 2.0209
+  LSPR / TSPR                     : 5.2393
+  Absorbance at 400 nm            : 1.8479
+  TSPR / Abs(400 nm)              : 0.2580
+  LSPR FWHM (nm)                  : 63.2066
+  LSPR FWHM left (nm)             : 715.1806
+  LSPR FWHM right (nm)            : 778.3872
+
+Spectrum 48  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 2.5509
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.4834
+  LSPR - TSPR                     : 2.0675
+  LSPR / TSPR                     : 5.2774
+  Absorbance at 400 nm            : 1.8555
+  TSPR / Abs(400 nm)              : 0.2605
+  LSPR FWHM (nm)                  : 63.2206
+  LSPR FWHM left (nm)             : 716.0643
+  LSPR FWHM right (nm)            : 779.2849
+
+Spectrum 49  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 2.6094
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.4918
+  LSPR - TSPR                     : 2.1176
+  LSPR / TSPR                     : 5.3061
+  Absorbance at 400 nm            : 1.8653
+  TSPR / Abs(400 nm)              : 0.2636
+  LSPR FWHM (nm)                  : 62.9971
+  LSPR FWHM left (nm)             : 716.9036
+  LSPR FWHM right (nm)            : 779.9007
+
+Spectrum 50  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 2.6653
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5001
+  LSPR - TSPR                     : 2.1652
+  LSPR / TSPR                     : 5.3300
+  Absorbance at 400 nm            : 1.8742
+  TSPR / Abs(400 nm)              : 0.2668
+  LSPR FWHM (nm)                  : 62.9038
+  LSPR FWHM left (nm)             : 717.6169
+  LSPR FWHM right (nm)            : 780.5207
+
+Spectrum 51  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 2.7106
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5083
+  LSPR - TSPR                     : 2.2023
+  LSPR / TSPR                     : 5.3327
+  Absorbance at 400 nm            : 1.8835
+  TSPR / Abs(400 nm)              : 0.2699
+  LSPR FWHM (nm)                  : 62.9074
+  LSPR FWHM left (nm)             : 718.1547
+  LSPR FWHM right (nm)            : 781.0622
+
+Spectrum 52  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 2.7637
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5160
+  LSPR - TSPR                     : 2.2477
+  LSPR / TSPR                     : 5.3559
+  Absorbance at 400 nm            : 1.8927
+  TSPR / Abs(400 nm)              : 0.2726
+  LSPR FWHM (nm)                  : 62.8571
+  LSPR FWHM left (nm)             : 718.6208
+  LSPR FWHM right (nm)            : 781.4780
+
+Spectrum 53  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 2.8071
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5236
+  LSPR - TSPR                     : 2.2835
+  LSPR / TSPR                     : 5.3610
+  Absorbance at 400 nm            : 1.9017
+  TSPR / Abs(400 nm)              : 0.2753
+  LSPR FWHM (nm)                  : 62.9314
+  LSPR FWHM left (nm)             : 719.0516
+  LSPR FWHM right (nm)            : 781.9831
+
+Spectrum 54  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 2.8586
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5310
+  LSPR - TSPR                     : 2.3276
+  LSPR / TSPR                     : 5.3836
+  Absorbance at 400 nm            : 1.9089
+  TSPR / Abs(400 nm)              : 0.2782
+  LSPR FWHM (nm)                  : 62.7087
+  LSPR FWHM left (nm)             : 719.5030
+  LSPR FWHM right (nm)            : 782.2117
+
+Spectrum 55  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 2.9045
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5367
+  LSPR - TSPR                     : 2.3679
+  LSPR / TSPR                     : 5.4122
+  Absorbance at 400 nm            : 1.9155
+  TSPR / Abs(400 nm)              : 0.2802
+  LSPR FWHM (nm)                  : 62.5133
+  LSPR FWHM left (nm)             : 719.9480
+  LSPR FWHM right (nm)            : 782.4613
+
+Spectrum 56  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 2.9478
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5430
+  LSPR - TSPR                     : 2.4049
+  LSPR / TSPR                     : 5.4292
+  Absorbance at 400 nm            : 1.9228
+  TSPR / Abs(400 nm)              : 0.2824
+  LSPR FWHM (nm)                  : 62.3288
+  LSPR FWHM left (nm)             : 720.3387
+  LSPR FWHM right (nm)            : 782.6675
+
+Spectrum 57  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 2.9720
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.5485
+  LSPR - TSPR                     : 2.4235
+  LSPR / TSPR                     : 5.4186
+  Absorbance at 400 nm            : 1.9292
+  TSPR / Abs(400 nm)              : 0.2843
+  LSPR FWHM (nm)                  : 62.4720
+  LSPR FWHM left (nm)             : 720.4865
+  LSPR FWHM right (nm)            : 782.9585
+
+Spectrum 58  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.0065
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5536
+  LSPR - TSPR                     : 2.4529
+  LSPR / TSPR                     : 5.4310
+  Absorbance at 400 nm            : 1.9343
+  TSPR / Abs(400 nm)              : 0.2862
+  LSPR FWHM (nm)                  : 62.4250
+  LSPR FWHM left (nm)             : 720.7737
+  LSPR FWHM right (nm)            : 783.1987
+
+Spectrum 59  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.0497
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5587
+  LSPR - TSPR                     : 2.4910
+  LSPR / TSPR                     : 5.4585
+  Absorbance at 400 nm            : 1.9396
+  TSPR / Abs(400 nm)              : 0.2880
+  LSPR FWHM (nm)                  : 62.1722
+  LSPR FWHM left (nm)             : 721.0333
+  LSPR FWHM right (nm)            : 783.2055
+
+Spectrum 60  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.0734
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.5644
+  LSPR - TSPR                     : 2.5090
+  LSPR / TSPR                     : 5.4453
+  Absorbance at 400 nm            : 1.9455
+  TSPR / Abs(400 nm)              : 0.2901
+  LSPR FWHM (nm)                  : 62.3678
+  LSPR FWHM left (nm)             : 721.0817
+  LSPR FWHM right (nm)            : 783.4495
+
+Spectrum 61  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.0993
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5698
+  LSPR - TSPR                     : 2.5295
+  LSPR / TSPR                     : 5.4395
+  Absorbance at 400 nm            : 1.9521
+  TSPR / Abs(400 nm)              : 0.2919
+  LSPR FWHM (nm)                  : 62.3749
+  LSPR FWHM left (nm)             : 721.1447
+  LSPR FWHM right (nm)            : 783.5197
+
+Spectrum 62  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.1391
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5743
+  LSPR - TSPR                     : 2.5648
+  LSPR / TSPR                     : 5.4659
+  Absorbance at 400 nm            : 1.9572
+  TSPR / Abs(400 nm)              : 0.2934
+  LSPR FWHM (nm)                  : 62.1152
+  LSPR FWHM left (nm)             : 721.3449
+  LSPR FWHM right (nm)            : 783.4600
+
+Spectrum 63  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.1538
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.5781
+  LSPR - TSPR                     : 2.5758
+  LSPR / TSPR                     : 5.4558
+  Absorbance at 400 nm            : 1.9607
+  TSPR / Abs(400 nm)              : 0.2948
+  LSPR FWHM (nm)                  : 62.2508
+  LSPR FWHM left (nm)             : 721.3746
+  LSPR FWHM right (nm)            : 783.6254
+
+Spectrum 64  [2 peaks]
+  LSPR wavelength (nm)            : 755.0000
+  LSPR absorbance                 : 3.1729
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5818
+  LSPR - TSPR                     : 2.5911
+  LSPR / TSPR                     : 5.4537
+  Absorbance at 400 nm            : 1.9659
+  TSPR / Abs(400 nm)              : 0.2959
+  LSPR FWHM (nm)                  : 62.2285
+  LSPR FWHM left (nm)             : 721.4517
+  LSPR FWHM right (nm)            : 783.6802
+
+Spectrum 65  [2 peaks]
+  LSPR wavelength (nm)            : 756.0000
+  LSPR absorbance                 : 3.1984
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5852
+  LSPR - TSPR                     : 2.6132
+  LSPR / TSPR                     : 5.4657
+  Absorbance at 400 nm            : 1.9689
+  TSPR / Abs(400 nm)              : 0.2972
+  LSPR FWHM (nm)                  : 62.2074
+  LSPR FWHM left (nm)             : 721.4784
+  LSPR FWHM right (nm)            : 783.6858
+
+Spectrum 66  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.2190
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.5875
+  LSPR - TSPR                     : 2.6316
+  LSPR / TSPR                     : 5.4794
+  Absorbance at 400 nm            : 1.9727
+  TSPR / Abs(400 nm)              : 0.2978
+  LSPR FWHM (nm)                  : 62.0252
+  LSPR FWHM left (nm)             : 721.6296
+  LSPR FWHM right (nm)            : 783.6548
+
+Spectrum 67  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.2371
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.5919
+  LSPR - TSPR                     : 2.6452
+  LSPR / TSPR                     : 5.4689
+  Absorbance at 400 nm            : 1.9766
+  TSPR / Abs(400 nm)              : 0.2995
+  LSPR FWHM (nm)                  : 62.0688
+  LSPR FWHM left (nm)             : 721.6190
+  LSPR FWHM right (nm)            : 783.6877
+
+Spectrum 68  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.2705
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.5946
+  LSPR - TSPR                     : 2.6759
+  LSPR / TSPR                     : 5.5004
+  Absorbance at 400 nm            : 1.9799
+  TSPR / Abs(400 nm)              : 0.3003
+  LSPR FWHM (nm)                  : 61.7611
+  LSPR FWHM left (nm)             : 721.7255
+  LSPR FWHM right (nm)            : 783.4866
+
+Spectrum 69  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.2822
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6028
+  LSPR - TSPR                     : 2.6794
+  LSPR / TSPR                     : 5.4446
+  Absorbance at 400 nm            : 1.9848
+  TSPR / Abs(400 nm)              : 0.3037
+  LSPR FWHM (nm)                  : 61.7673
+  LSPR FWHM left (nm)             : 721.6754
+  LSPR FWHM right (nm)            : 783.4426
+
+Spectrum 70  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.3053
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6016
+  LSPR - TSPR                     : 2.7037
+  LSPR / TSPR                     : 5.4944
+  Absorbance at 400 nm            : 1.9875
+  TSPR / Abs(400 nm)              : 0.3027
+  LSPR FWHM (nm)                  : 61.7777
+  LSPR FWHM left (nm)             : 721.5935
+  LSPR FWHM right (nm)            : 783.3712
+
+Spectrum 71  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.3289
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6054
+  LSPR - TSPR                     : 2.7235
+  LSPR / TSPR                     : 5.4988
+  Absorbance at 400 nm            : 1.9914
+  TSPR / Abs(400 nm)              : 0.3040
+  LSPR FWHM (nm)                  : 61.7222
+  LSPR FWHM left (nm)             : 721.5920
+  LSPR FWHM right (nm)            : 783.3142
+
+Spectrum 72  [2 peaks]
+  LSPR wavelength (nm)            : 754.0000
+  LSPR absorbance                 : 3.3499
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6082
+  LSPR - TSPR                     : 2.7416
+  LSPR / TSPR                     : 5.5075
+  Absorbance at 400 nm            : 1.9955
+  TSPR / Abs(400 nm)              : 0.3048
+  LSPR FWHM (nm)                  : 61.6330
+  LSPR FWHM left (nm)             : 721.5627
+  LSPR FWHM right (nm)            : 783.1957
+
+Spectrum 73  [2 peaks]
+  LSPR wavelength (nm)            : 755.0000
+  LSPR absorbance                 : 3.3553
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6110
+  LSPR - TSPR                     : 2.7443
+  LSPR / TSPR                     : 5.4917
+  Absorbance at 400 nm            : 1.9981
+  TSPR / Abs(400 nm)              : 0.3058
+  LSPR FWHM (nm)                  : 61.7725
+  LSPR FWHM left (nm)             : 721.3961
+  LSPR FWHM right (nm)            : 783.1686
+
+Spectrum 74  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.3745
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6142
+  LSPR - TSPR                     : 2.7603
+  LSPR / TSPR                     : 5.4941
+  Absorbance at 400 nm            : 2.0010
+  TSPR / Abs(400 nm)              : 0.3069
+  LSPR FWHM (nm)                  : 61.7517
+  LSPR FWHM left (nm)             : 721.2577
+  LSPR FWHM right (nm)            : 783.0094
+
+Spectrum 75  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.3993
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6170
+  LSPR - TSPR                     : 2.7823
+  LSPR / TSPR                     : 5.5094
+  Absorbance at 400 nm            : 2.0037
+  TSPR / Abs(400 nm)              : 0.3079
+  LSPR FWHM (nm)                  : 61.6397
+  LSPR FWHM left (nm)             : 721.2590
+  LSPR FWHM right (nm)            : 782.8987
+
+Spectrum 76  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.4115
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6197
+  LSPR - TSPR                     : 2.7918
+  LSPR / TSPR                     : 5.5051
+  Absorbance at 400 nm            : 2.0071
+  TSPR / Abs(400 nm)              : 0.3088
+  LSPR FWHM (nm)                  : 61.6207
+  LSPR FWHM left (nm)             : 721.0934
+  LSPR FWHM right (nm)            : 782.7140
+
+Spectrum 77  [2 peaks]
+  LSPR wavelength (nm)            : 755.0000
+  LSPR absorbance                 : 3.4183
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6221
+  LSPR - TSPR                     : 2.7962
+  LSPR / TSPR                     : 5.4951
+  Absorbance at 400 nm            : 2.0096
+  TSPR / Abs(400 nm)              : 0.3095
+  LSPR FWHM (nm)                  : 61.6090
+  LSPR FWHM left (nm)             : 720.9850
+  LSPR FWHM right (nm)            : 782.5940
+
+Spectrum 78  [2 peaks]
+  LSPR wavelength (nm)            : 755.0000
+  LSPR absorbance                 : 3.4327
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6243
+  LSPR - TSPR                     : 2.8084
+  LSPR / TSPR                     : 5.4985
+  Absorbance at 400 nm            : 2.0118
+  TSPR / Abs(400 nm)              : 0.3103
+  LSPR FWHM (nm)                  : 61.5507
+  LSPR FWHM left (nm)             : 720.8434
+  LSPR FWHM right (nm)            : 782.3941
+
+Spectrum 79  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 3.4441
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6259
+  LSPR - TSPR                     : 2.8182
+  LSPR / TSPR                     : 5.5024
+  Absorbance at 400 nm            : 2.0143
+  TSPR / Abs(400 nm)              : 0.3107
+  LSPR FWHM (nm)                  : 61.5748
+  LSPR FWHM left (nm)             : 720.6938
+  LSPR FWHM right (nm)            : 782.2685
+
+Spectrum 80  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.4648
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6284
+  LSPR - TSPR                     : 2.8363
+  LSPR / TSPR                     : 5.5135
+  Absorbance at 400 nm            : 2.0168
+  TSPR / Abs(400 nm)              : 0.3116
+  LSPR FWHM (nm)                  : 61.3512
+  LSPR FWHM left (nm)             : 720.6467
+  LSPR FWHM right (nm)            : 781.9979
+
+Spectrum 81  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.4512
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6300
+  LSPR - TSPR                     : 2.8212
+  LSPR / TSPR                     : 5.4781
+  Absorbance at 400 nm            : 2.0183
+  TSPR / Abs(400 nm)              : 0.3122
+  LSPR FWHM (nm)                  : 61.6454
+  LSPR FWHM left (nm)             : 720.2755
+  LSPR FWHM right (nm)            : 781.9209
+
+Spectrum 82  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.4699
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6307
+  LSPR - TSPR                     : 2.8392
+  LSPR / TSPR                     : 5.5017
+  Absorbance at 400 nm            : 2.0192
+  TSPR / Abs(400 nm)              : 0.3123
+  LSPR FWHM (nm)                  : 61.3705
+  LSPR FWHM left (nm)             : 720.2266
+  LSPR FWHM right (nm)            : 781.5971
+
+Spectrum 83  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.4835
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6341
+  LSPR - TSPR                     : 2.8494
+  LSPR / TSPR                     : 5.4938
+  Absorbance at 400 nm            : 2.0217
+  TSPR / Abs(400 nm)              : 0.3136
+  LSPR FWHM (nm)                  : 61.2944
+  LSPR FWHM left (nm)             : 720.0247
+  LSPR FWHM right (nm)            : 781.3191
+
+Spectrum 84  [2 peaks]
+  LSPR wavelength (nm)            : 753.0000
+  LSPR absorbance                 : 3.4936
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6347
+  LSPR - TSPR                     : 2.8588
+  LSPR / TSPR                     : 5.5039
+  Absorbance at 400 nm            : 2.0225
+  TSPR / Abs(400 nm)              : 0.3138
+  LSPR FWHM (nm)                  : 61.2006
+  LSPR FWHM left (nm)             : 719.8555
+  LSPR FWHM right (nm)            : 781.0561
+
+Spectrum 85  [2 peaks]
+  LSPR wavelength (nm)            : 752.0000
+  LSPR absorbance                 : 3.5083
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6370
+  LSPR - TSPR                     : 2.8713
+  LSPR / TSPR                     : 5.5071
+  Absorbance at 400 nm            : 2.0254
+  TSPR / Abs(400 nm)              : 0.3145
+  LSPR FWHM (nm)                  : 61.1198
+  LSPR FWHM left (nm)             : 719.6723
+  LSPR FWHM right (nm)            : 780.7922
+
+Spectrum 86  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 3.5173
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6385
+  LSPR - TSPR                     : 2.8789
+  LSPR / TSPR                     : 5.5091
+  Absorbance at 400 nm            : 2.0277
+  TSPR / Abs(400 nm)              : 0.3149
+  LSPR FWHM (nm)                  : 61.1010
+  LSPR FWHM left (nm)             : 719.4496
+  LSPR FWHM right (nm)            : 780.5506
+
+Spectrum 87  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 3.5158
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6406
+  LSPR - TSPR                     : 2.8752
+  LSPR / TSPR                     : 5.4883
+  Absorbance at 400 nm            : 2.0293
+  TSPR / Abs(400 nm)              : 0.3157
+  LSPR FWHM (nm)                  : 61.1811
+  LSPR FWHM left (nm)             : 719.1466
+  LSPR FWHM right (nm)            : 780.3278
+
+Spectrum 88  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.5376
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6424
+  LSPR - TSPR                     : 2.8952
+  LSPR / TSPR                     : 5.5069
+  Absorbance at 400 nm            : 2.0307
+  TSPR / Abs(400 nm)              : 0.3163
+  LSPR FWHM (nm)                  : 60.9378
+  LSPR FWHM left (nm)             : 719.0514
+  LSPR FWHM right (nm)            : 779.9893
+
+Spectrum 89  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.5408
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6435
+  LSPR - TSPR                     : 2.8972
+  LSPR / TSPR                     : 5.5020
+  Absorbance at 400 nm            : 2.0321
+  TSPR / Abs(400 nm)              : 0.3167
+  LSPR FWHM (nm)                  : 60.9410
+  LSPR FWHM left (nm)             : 718.8967
+  LSPR FWHM right (nm)            : 779.8377
+
+Spectrum 90  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.5508
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6450
+  LSPR - TSPR                     : 2.9059
+  LSPR / TSPR                     : 5.5055
+  Absorbance at 400 nm            : 2.0333
+  TSPR / Abs(400 nm)              : 0.3172
+  LSPR FWHM (nm)                  : 60.9984
+  LSPR FWHM left (nm)             : 718.6677
+  LSPR FWHM right (nm)            : 779.6662
+
+Spectrum 91  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 3.5620
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6465
+  LSPR - TSPR                     : 2.9156
+  LSPR / TSPR                     : 5.5100
+  Absorbance at 400 nm            : 2.0348
+  TSPR / Abs(400 nm)              : 0.3177
+  LSPR FWHM (nm)                  : 60.8719
+  LSPR FWHM left (nm)             : 718.5394
+  LSPR FWHM right (nm)            : 779.4113
+
+Spectrum 92  [2 peaks]
+  LSPR wavelength (nm)            : 751.0000
+  LSPR absorbance                 : 3.5716
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6475
+  LSPR - TSPR                     : 2.9241
+  LSPR / TSPR                     : 5.5161
+  Absorbance at 400 nm            : 2.0360
+  TSPR / Abs(400 nm)              : 0.3180
+  LSPR FWHM (nm)                  : 60.6593
+  LSPR FWHM left (nm)             : 718.4231
+  LSPR FWHM right (nm)            : 779.0824
+
+Spectrum 93  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 3.5824
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6489
+  LSPR - TSPR                     : 2.9335
+  LSPR / TSPR                     : 5.5211
+  Absorbance at 400 nm            : 2.0376
+  TSPR / Abs(400 nm)              : 0.3184
+  LSPR FWHM (nm)                  : 60.6403
+  LSPR FWHM left (nm)             : 718.2249
+  LSPR FWHM right (nm)            : 778.8652
+
+Spectrum 94  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.5870
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6497
+  LSPR - TSPR                     : 2.9373
+  LSPR / TSPR                     : 5.5209
+  Absorbance at 400 nm            : 2.0387
+  TSPR / Abs(400 nm)              : 0.3187
+  LSPR FWHM (nm)                  : 60.6125
+  LSPR FWHM left (nm)             : 718.0306
+  LSPR FWHM right (nm)            : 778.6431
+
+Spectrum 95  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.5997
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6514
+  LSPR - TSPR                     : 2.9483
+  LSPR / TSPR                     : 5.5260
+  Absorbance at 400 nm            : 2.0415
+  TSPR / Abs(400 nm)              : 0.3191
+  LSPR FWHM (nm)                  : 60.5079
+  LSPR FWHM left (nm)             : 717.8712
+  LSPR FWHM right (nm)            : 778.3792
+
+Spectrum 96  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 3.5932
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6534
+  LSPR - TSPR                     : 2.9398
+  LSPR / TSPR                     : 5.4994
+  Absorbance at 400 nm            : 2.0424
+  TSPR / Abs(400 nm)              : 0.3199
+  LSPR FWHM (nm)                  : 60.7871
+  LSPR FWHM left (nm)             : 717.4927
+  LSPR FWHM right (nm)            : 778.2798
+
+Spectrum 97  [2 peaks]
+  LSPR wavelength (nm)            : 750.0000
+  LSPR absorbance                 : 3.6215
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6549
+  LSPR - TSPR                     : 2.9666
+  LSPR / TSPR                     : 5.5298
+  Absorbance at 400 nm            : 2.0440
+  TSPR / Abs(400 nm)              : 0.3204
+  LSPR FWHM (nm)                  : 60.4093
+  LSPR FWHM left (nm)             : 717.5108
+  LSPR FWHM right (nm)            : 777.9201
+
+Spectrum 98  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 3.6186
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6561
+  LSPR - TSPR                     : 2.9625
+  LSPR / TSPR                     : 5.5151
+  Absorbance at 400 nm            : 2.0456
+  TSPR / Abs(400 nm)              : 0.3208
+  LSPR FWHM (nm)                  : 60.4767
+  LSPR FWHM left (nm)             : 717.2928
+  LSPR FWHM right (nm)            : 777.7695
+
+Spectrum 99  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6113
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6560
+  LSPR - TSPR                     : 2.9554
+  LSPR / TSPR                     : 5.5053
+  Absorbance at 400 nm            : 2.0451
+  TSPR / Abs(400 nm)              : 0.3208
+  LSPR FWHM (nm)                  : 60.6357
+  LSPR FWHM left (nm)             : 717.1087
+  LSPR FWHM right (nm)            : 777.7444
+
+Spectrum 100  [2 peaks]
+  LSPR wavelength (nm)            : 749.0000
+  LSPR absorbance                 : 3.6196
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6568
+  LSPR - TSPR                     : 2.9627
+  LSPR / TSPR                     : 5.5106
+  Absorbance at 400 nm            : 2.0466
+  TSPR / Abs(400 nm)              : 0.3209
+  LSPR FWHM (nm)                  : 60.4732
+  LSPR FWHM left (nm)             : 717.0136
+  LSPR FWHM right (nm)            : 777.4869
+
+Spectrum 101  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6155
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6572
+  LSPR - TSPR                     : 2.9583
+  LSPR / TSPR                     : 5.5013
+  Absorbance at 400 nm            : 2.0462
+  TSPR / Abs(400 nm)              : 0.3212
+  LSPR FWHM (nm)                  : 60.5614
+  LSPR FWHM left (nm)             : 716.8589
+  LSPR FWHM right (nm)            : 777.4202
+
+Spectrum 102  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6257
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6583
+  LSPR - TSPR                     : 2.9674
+  LSPR / TSPR                     : 5.5074
+  Absorbance at 400 nm            : 2.0476
+  TSPR / Abs(400 nm)              : 0.3215
+  LSPR FWHM (nm)                  : 60.4727
+  LSPR FWHM left (nm)             : 716.7790
+  LSPR FWHM right (nm)            : 777.2517
+
+Spectrum 103  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6410
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6597
+  LSPR - TSPR                     : 2.9812
+  LSPR / TSPR                     : 5.5187
+  Absorbance at 400 nm            : 2.0489
+  TSPR / Abs(400 nm)              : 0.3220
+  LSPR FWHM (nm)                  : 60.2485
+  LSPR FWHM left (nm)             : 716.7074
+  LSPR FWHM right (nm)            : 776.9559
+
+Spectrum 104  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6455
+  TSPR wavelength (nm)            : 515.0000
+  TSPR absorbance                 : 0.6623
+  LSPR - TSPR                     : 2.9832
+  LSPR / TSPR                     : 5.5042
+  Absorbance at 400 nm            : 2.0505
+  TSPR / Abs(400 nm)              : 0.3230
+  LSPR FWHM (nm)                  : 60.3836
+  LSPR FWHM left (nm)             : 716.4673
+  LSPR FWHM right (nm)            : 776.8508
+
+Spectrum 105  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6367
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6624
+  LSPR - TSPR                     : 2.9743
+  LSPR / TSPR                     : 5.4903
+  Absorbance at 400 nm            : 2.0521
+  TSPR / Abs(400 nm)              : 0.3228
+  LSPR FWHM (nm)                  : 60.5357
+  LSPR FWHM left (nm)             : 716.2221
+  LSPR FWHM right (nm)            : 776.7578
+
+Spectrum 106  [2 peaks]
+  LSPR wavelength (nm)            : 748.0000
+  LSPR absorbance                 : 3.6431
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6628
+  LSPR - TSPR                     : 2.9803
+  LSPR / TSPR                     : 5.4967
+  Absorbance at 400 nm            : 2.0520
+  TSPR / Abs(400 nm)              : 0.3230
+  LSPR FWHM (nm)                  : 60.3722
+  LSPR FWHM left (nm)             : 716.1439
+  LSPR FWHM right (nm)            : 776.5161
+
+Spectrum 107  [2 peaks]
+  LSPR wavelength (nm)            : 748.0000
+  LSPR absorbance                 : 3.6578
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6636
+  LSPR - TSPR                     : 2.9941
+  LSPR / TSPR                     : 5.5116
+  Absorbance at 400 nm            : 2.0530
+  TSPR / Abs(400 nm)              : 0.3233
+  LSPR FWHM (nm)                  : 60.2522
+  LSPR FWHM left (nm)             : 716.1398
+  LSPR FWHM right (nm)            : 776.3920
+
+Spectrum 108  [2 peaks]
+  LSPR wavelength (nm)            : 746.0000
+  LSPR absorbance                 : 3.6475
+  TSPR wavelength (nm)            : 513.0000
+  TSPR absorbance                 : 0.6648
+  LSPR - TSPR                     : 2.9827
+  LSPR / TSPR                     : 5.4866
+  Absorbance at 400 nm            : 2.0545
+  TSPR / Abs(400 nm)              : 0.3236
+  LSPR FWHM (nm)                  : 60.5686
+  LSPR FWHM left (nm)             : 715.8681
+  LSPR FWHM right (nm)            : 776.4367
+
+Spectrum 109  [2 peaks]
+  LSPR wavelength (nm)            : 747.0000
+  LSPR absorbance                 : 3.6748
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6665
+  LSPR - TSPR                     : 3.0084
+  LSPR / TSPR                     : 5.5138
+  Absorbance at 400 nm            : 2.0561
+  TSPR / Abs(400 nm)              : 0.3242
+  LSPR FWHM (nm)                  : 60.1703
+  LSPR FWHM left (nm)             : 715.9010
+  LSPR FWHM right (nm)            : 776.0713
+
+Spectrum 110  [2 peaks]
+  LSPR wavelength (nm)            : 746.0000
+  LSPR absorbance                 : 3.7017
+  TSPR wavelength (nm)            : 514.0000
+  TSPR absorbance                 : 0.6681
+  LSPR - TSPR                     : 3.0336
+  LSPR / TSPR                     : 5.5406
+  Absorbance at 400 nm            : 2.0569
+  TSPR / Abs(400 nm)              : 0.3248
+  LSPR FWHM (nm)                  : 59.9230
+  LSPR FWHM left (nm)             : 715.8980
+  LSPR FWHM right (nm)            : 775.8210
